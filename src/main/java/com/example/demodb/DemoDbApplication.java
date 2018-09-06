@@ -10,5 +10,6 @@ public class DemoDbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoDbApplication.class, args);
+		System.out.println("new sop");
 	}
 }
